@@ -1,0 +1,28 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://github.com/JB12298/LinuxPlayground/new/master",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.google.co.uk",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "dev.azure.com",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
